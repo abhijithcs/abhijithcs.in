@@ -1,0 +1,296 @@
+[18-Mar-2015 17:09:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 17:09:43 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 17:09:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 17:09:50 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 17:10:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 17:10:20 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 17:11:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:11:24 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:11:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:12:44 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 17:12:45 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 17:12:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 17:12:50 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 17:14:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:14:31 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:14:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:17:52 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:20:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:20:37 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:20:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:22:03 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:22:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:23:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:23:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:23:47 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:24:03 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:24:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:24:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:24:47 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:24:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:25:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:25:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:25:59 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:26:07 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:26:14 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:26:15 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:26:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:26:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:28:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:28:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:33:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:34:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:34:15 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:34:18 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:34:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:35:53 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:36:49 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:37:00 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:37:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:39:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:39:39 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:44:38 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:44:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:44:43 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:44:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:44:48 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:52:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:52:22 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:52:26 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:54:48 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:54:52 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 17:54:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:04:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:04:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:04:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:05:08 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:05:51 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:05:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:06:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:06:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:09:00 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:10:15 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:11:09 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:11:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:11:19 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:11:22 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:11:33 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:15:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 18:15:55 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 18:15:59 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:16:08 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:20:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:20:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:20:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:21:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:21:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:22:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:22:19 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:22:34 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:39 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:44 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:45 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:31:47 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:32:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:33:57 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:48:24 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 18:48:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:04:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:04:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:04:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:04:34 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:05:10 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:07:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:09:14 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:09:21 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:09:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:11:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:12:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:12:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:12:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:12:38 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:13:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:13:19 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:13:24 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:14:45 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:14:59 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:21:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:22:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:23:01 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:23:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:24:21 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:25:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:25:13 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:25:14 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:25:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:25:33 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:26:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:26:31 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:10 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:13 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:28:54 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:29:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:32:33 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:34:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:35:37 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:36:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:36:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:36:46 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:37:01 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:37:19 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:37:57 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:38:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:38:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:38:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:39:08 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:39:47 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:39:54 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:40:00 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:40:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:41:24 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:41:26 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:41:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:41:33 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:42:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:42:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:42:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:43:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:43:38 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:43:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:43:59 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:44:15 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:44:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:44:52 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:44:58 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:45:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:45:25 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:45:25 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:45:25 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:45:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:45:34 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:46:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:46:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:48:22 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:48:44 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:49:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:49:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:50:58 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:51:00 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:51:02 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:51:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 19:55:34 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:34 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:55:34 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:35 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:55:38 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:38 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:55:39 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:39 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:55:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 19:55:42 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 19:55:42 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 20:01:53 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:02:31 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:02:52 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:02:58 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:02 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:13 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:16 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:33 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:03:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:04:55 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:05:43 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:09:07 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:09:31 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:10:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:11:30 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:11:35 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:13:45 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 20:13:45 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 20:14:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/fill.php on line 6
+[18-Mar-2015 20:18:52 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[18-Mar-2015 20:18:52 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 85
+[18-Mar-2015 21:09:20 Asia/Calcutta] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/a22ff553/public_html/rg/connect.php on line 9
+[19-Mar-2015 03:00:43 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:00:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:00:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:01:02 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:02:48 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:02:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:03:07 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:03:07 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:03:20 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:03:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:04:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:04:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:04:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[19-Mar-2015 03:04:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/list.php on line 12
+[21-Mar-2015 19:56:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''.$nam3.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 87
+[21-Mar-2015 19:56:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''.$nam3.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 87
+[21-Mar-2015 19:56:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''.$name3.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 87
+[21-Mar-2015 19:57:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ''.$name3.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 87
+[03-Apr-2015 18:16:07 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:16:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:18:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:18:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:19:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:19:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:19:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:19:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'RGs' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 71
+[03-Apr-2015 18:19:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:20:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:20:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:20:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:21:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 107
+[03-Apr-2015 18:22:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 109
+[03-Apr-2015 18:22:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:22:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:22:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:23:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:23:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 105
+[03-Apr-2015 18:24:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 106
+[03-Apr-2015 18:24:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 106
+[03-Apr-2015 18:24:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 106
+[03-Apr-2015 18:24:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 106
+[03-Apr-2015 18:25:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 107
+[03-Apr-2015 18:25:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 108
+[03-Apr-2015 18:25:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'rgmaxtable' (T_STRING), expecting ',' or ';' in /home/a22ff553/public_html/rg/entries.php on line 108
+[03-Apr-2015 18:52:54 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 7
+[03-Apr-2015 18:52:54 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 13
+[03-Apr-2015 18:52:54 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 19
+[03-Apr-2015 18:52:54 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 20
+[03-Apr-2015 18:59:13 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 7
+[03-Apr-2015 18:59:13 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 13
+[03-Apr-2015 18:59:13 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 19
+[03-Apr-2015 18:59:13 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 20
+[03-Apr-2015 20:20:26 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 7
+[03-Apr-2015 20:20:26 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 13
+[03-Apr-2015 20:20:26 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 19
+[03-Apr-2015 20:20:26 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 20
+[03-Apr-2015 22:16:06 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 7
+[03-Apr-2015 22:16:06 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 13
+[03-Apr-2015 22:16:06 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 19
+[03-Apr-2015 22:16:06 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 20
+[04-Apr-2015 12:19:09 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 7
+[04-Apr-2015 12:19:09 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 13
+[04-Apr-2015 12:19:09 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 19
+[04-Apr-2015 12:19:09 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/a22ff553/public_html/rg/entries.php on line 20
+[05-Apr-2015 14:41:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/entries.php on line 23
+[05-Apr-2015 14:41:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/entries.php on line 23
+[05-Apr-2015 14:54:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a22ff553/public_html/rg/entries.php on line 23
