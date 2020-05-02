@@ -1,0 +1,40 @@
+.centerBullet{
+  font-size: 40%;
+  position: relative;
+  bottom: 0.4em;
+  color: grey;
+}
+
+.bullettedListHeader{
+  font-size: 12px;
+  text-transform: uppercase;
+  color: grey;
+  margin-top: 15px !important;
+}
+
+.bullettedList{
+  font-size: .7em;
+}
+
+.bullettedListName{
+  cursor: pointer;
+}
+
+.bullettedListName:hover{
+  color: #2196f3;
+}
+
+.greyText{
+  line-height: 1.5em;
+  color: gray;
+}
+
+.customURL{
+  color: #6d56c1;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.customURL:hover{
+  font-weight: bold;
+}

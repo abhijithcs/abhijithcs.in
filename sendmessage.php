@@ -15,8 +15,6 @@ require 'mail.php';
 	$forSub = $name."'s Message";
 
 	mailer($name, "abhijithcs1993@gmail.com", $forSub , $briefs, $mail);
-
-	echo ' <script>window.location = "success.html";</script> ';
 ?>
 
 

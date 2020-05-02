@@ -1,104 +1,485 @@
+
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Abhijith C S</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="Personal Webpage of Abhijith C S - Software Engineer by Profession. Designer by Passion!" />
-		<meta name="keywords" content="Abhijith, CS, IIT, IITM, IIT Madras" />
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-xlarge.css" />
-		</noscript>
-		
-	<!-- For preloader -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
-	<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-	
-		<script>
-	
-	
-    /* --------------------------------------------------------
-	 PAGE LOADER
-	----------------------------------------------------------- */
-    $(function() {
-		"use strict";		
-        $("body").imagesLoaded(function(){
-            $(".loader-item").delay(700).fadeOut();
-            $("#pageloader").delay(800).fadeOut("slow");
-        });
-	});
-	
+  <meta name="description" content="Personal profile of Abhijith C S, an exprienced Software Engineer with expert knowledge in the field of Computer Science. IIT Madras alum." />
+  <meta name="keywords" content="Abhijith CS, Computer Science, IIT, IITM, IIT Madras, Senior Software Engineer" />
 
-		
-	</script>
-	
-	</head>
+  <title>Abhijith C S</title>
+  <link rel="stylesheet" href="assets/css/color.css">
+  <link rel="stylesheet" href="assets/css/custom.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Inconsolata" rel="stylesheet">
+  <link href="https://cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css" rel="stylesheet">
 
-	
-	<body class="landing">
+  <link rel="shortcut icon" href="assets/images/favicon.ico">
 
+</head>
+<body>
 
-        <!-- Page Loader
-        ===================================== -->
-		<div id="pageloader">
-			<div class="loader-item">
-                <img src="http://samherbert.net/svg-loaders/svg-loaders/ball-triangle.svg" alt="page loader">
+<!--Main menu-->
+  <div class="menu">
+    <div class="container">
+      <div class="row">
+        <div class="menu__wrapper d-none d-lg-block col-md-12">
+          <nav class="">
+            <ul>
+              <li><a href="#hello">Hello</a></li>
+              <li><a href="#resume">Resume</a></li>
+              <li><a href="cv/">Download CV</a></li>
+              <li><a href="#portfolio">Projects</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="menu__wrapper col-md-12 d-lg-none">
+          <button type="button" class="menu__mobile-button">
+            <span><i class="fa fa-bars" aria-hidden="true"></i></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--Main menu-->
+
+<!-- Mobile menu -->
+  <div class="mobile-menu d-lg-none">
+    <div class="container">
+      <div class="mobile-menu__close">
+        <span><i class="mdi mdi-close" aria-hidden="true"></i></span>
+      </div>
+      <nav class="mobile-menu__wrapper">
+        <ul>
+          <li><a href="#hello">Hello</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="cv/">Download CV</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+<!-- Mobile menu -->
+
+<!--Header-->
+  <header class="main-header" style="background-image: url(assets/images/cover.jpg)">
+    <div class="container">
+      <div class="row personal-profile">
+        <div class="col-md-4 personal-profile__avatar">
+          <img class="" src="assets/images/avatar.jpg" alt="avatar">
+        </div>
+        <div class="col-md-8">
+          <p class="personal-profile__name">Abhijith C S</p>
+          <p class="personal-profile__work">A Passionate Software Engineer</p>
+          <div class="personal-profile__contacts">
+            <dl class="contact-list contact-list__opacity-titles">
+              <dt>Birthday</dt>
+              <dd>9th June</dd>
+              <dt>Phone</dt>
+              <dd><a href="tel:9043960876">(+91) 9043-960-876</a></dd>
+              <dt>Email</dt>
+              <dd><a href="mailto:writetoabhijith@gmail.com">writetoabhijith@gmail.com</a></dd>
+              <dt>Address</dt>
+              <dd>I-1101 Springfields Apt., Bellandur, Bangalore - 102</dd>
+            </dl>
+          </div>
+          <p class="personal-profile__social">
+            <a href="https://github.com/abhijithcs" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/csabhijith/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://www.facebook.com/abijithcs/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </header>
+<!--Header-->
+
+<!--Hello-->
+  <section id="hello" class="container section">
+    <div class="row">
+      <div class="col-md-10">
+        <h2 id="hello_header" class="section__title">Hello World_</h2>
+        <p class="section__description">
+          I'm Abhijith, a Techie by passion and profession. And well, a super cool human being too! 😎
+          <br><br>
+          I love doing tech stuff, or anything that interests me. It's been said, "do what you love". But I take it the other way, "love what you do". Keep it simple, why make things unnecessarily complicated in life, huh?!
+          <br><br>
+          I always wish to do things differently, and taking up the risk of challenging tasks always thrills me. As Steve Jobs once said, "Innovation distinguishes between a leader and a follower", I never wanted to be a follower! I believe that passion is necessary to be able to successfully perform. Because only, passion can lend the strength to do justice to anything that we do. Stay passionate!
+          <br><br>
+          Friendship is one of the most important values in my life. With friends we exchange new ideas, find many interesting things about each other and experience new things. I'm always keen to get to know about new interesting individuals. <a href="#contact" class="customURL">Drop in a message below</a> and lets get it started.
+        </p>
+
+        <a target="_blank" class="section_btn site-btn" href="/cv"><img src="assets/images/button_download_icon.png" alt="">Download CV</a>
+      </div>
+    </div>
+  </section>
+<!--Hello-->
+
+  <hr>
+
+<!--Resume-->
+  <section id="resume" class="container section">
+    <div class="row">
+      <div class="col-md-10">
+        <h2 id="resume_header" class="section__title">Resume_</h2>
+        <p class="section__description">
+          A passionate Software Engineer with 4.5+ years of industry experience with a demonstrated history of working in the eCommerce and Banking domain. Skilled in NodeJS, Java, PHP, Spring and AngularJS. Strong engineering professional with a B-Tech degree in Computer Science from IIT Madras. A fast learning computer scientist with passion in technology and products.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 section__resume resume-list">
+        <h3 class="resume-list_title">education</h3>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">Indian Institute of Technology, Madras</p>
+          <p class="resume-list__block-date">2011 - 2015</p>
+          <p>
+            B-Tech in Computer Science and Engineering
+          </p>
+          <p class="bullettedListHeader">Courses</p>
+          <p class="bullettedList">
+            <tag class="bullettedListName">Data Structures and Algorithms</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Cloud Computing</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Natural Language Processing</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Graph Theory</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Database Systems</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Computer System Design</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Operating Systems</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Computer Networks</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Computer Organization</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Language Translators</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Principles of Software Engineering</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Advanced Programming</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Probability and Stochastic Process</tag>
+          </p>
+        </div>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">HMY HIGHER SECONDARY SCHOOL, MANJERI</p>
+          <p class="resume-list__block-date">2008 - 2010</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 section__resume resume-list">
+        <h3 class="resume-list_title">professional exprience</h3>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">Pharmeasy</p>
+          <p class="resume-list__block-date">Bangalore <i class="fa fa-circle centerBullet"></i> Sep 2019 - present</p>
+          <p>
+            Senior Software Engineer
+          </p>
+          <p class="bullettedList greyText">
+            Involved in designing and end-to-end development of new features to the pharmaceutical supply chain product, with complete ownership. Responsible for making the existing systems fault tolerant and more scalable.
+          <p>
+        </div>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">Accelerate</p>
+          <p class="resume-list__block-date">Chennai <i class="fa fa-circle centerBullet"></i> Feb 2018 - Sep 2019</p>
+          <p>
+            Lead Developer
+          </p>
+          <p class="bullettedList greyText">
+            Led the tech at Accelerate, an early stage product startup. Involved in the initial architecture, design and development of the potential retail product. Architec
+          <p>
+        </div>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">EdgeVerve Systems</p>
+          <p class="resume-list__block-date">Bangalore <i class="fa fa-circle centerBullet"></i> Jul 2015 - Jan 2018</p>
+          <p>
+            Member of Technical Staff | CTO's Office
+          </p>
+          <p class="bullettedList greyText">
+            Been a part of the Technology Incubation Team at EdgeVerve, with responsibilities including - making it's product and platform fast, scalable, reliable and fault tolerant. Contributions include different kinds of performance tests, build simulation models for making scientific assessments.
+          <p>
+        </div>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">APIGEE (GOOGLE)</p>
+          <p class="resume-list__block-date">Bangalore <i class="fa fa-circle centerBullet"></i> May 2014 - Jul 2014</p>
+          <p>
+            Software Engineer Intern
+          </p>
+          <p class="bullettedList greyText">
+            Research project in desigining a tool for the automated generation of SDK functions (specifically Android SDK) from given WADL description of a REST API (API Model) using the Apigee Edge platform and the open-source project Apache CXF.
+          <p>
+        </div>
+      </div>
+    </div>
+    <div class="row section__resume progress-list js-progress-list">
+      <div class="col-md-12">
+        <h3 class="progress-list__title">programming skills</h3>
+      </div>
+      <div class="col-md-5 mr-auto">
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">Java</span>
+            <span class="progress-list__skill-value">80%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" >
             </div>
-		</div>
-		
-			
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">NODEJS</span>
+            <span class="progress-list__skill-value">85%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">java script</span>
+            <span class="progress-list__skill-value">90%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">PHP</span>
+            <span class="progress-list__skill-value">70%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5 mr-auto">
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">C / C++</span>
+            <span class="progress-list__skill-value">90%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">SQL</span>
+            <span class="progress-list__skill-value">80%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">AngularJS</span>
+            <span class="progress-list__skill-value">70%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">HTML + CSS</span>
+            <span class="progress-list__skill-value">80%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5 mr-auto">
+          <p class="bullettedListHeader">Languages</p>
+          <p class="bullettedList" style="text-transform: unset;">
+            <tag class="bullettedListName">NodeJS</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">PHP</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Java</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Spring</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">JavaScript</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">AngularJS</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">SQL</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">HTML</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">CSS</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">C</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">C++</tag>
+          </p>
+      </div>
+      <div class="col-md-5 mr-auto">
+          <p class="bullettedListHeader">Technologies</p>
+          <p class="bullettedList" style="text-transform: unset;">
+            <tag class="bullettedListName">Blockchain</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Electron</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Loopback</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">ExpressJS</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Ionic</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">MySQL</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">MongoDB</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">CouchDB</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">AWS</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">ElasticSearch</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Kubernetes</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Docker</tag>
+            <i class="fa fa-circle centerBullet"></i> <tag class="bullettedListName">Jenkins</tag>
+          </p>
 
-		<!-- Header -->
-			<header id="header">
-				<nav id="nav">
-					<ul>
-						<li><a href="https://www.amazon.in/hz/wishlist/ls/LXM5GD26659B" target="new" class="button special" style="background-color: #ff007f; color: #fff !important;">Surprise Me</a></li>
-						<li><a href="index.html" class="button special">About Me</a></li>
-						<li><a href="timeline.html">Timeline</a></li>
-						<li><a href="downloads/resume.pdf">Resume/CV</a></li>
-						<li><a href="interests.html">Interests</a></li>
-						<li><a href="contact.html">Contact</a></li>
-					</ul>
-				</nav>
-			</header>
-			
+      </div>
+    </div>
+  </section>
+<!--Resume-->
 
-		<!-- Banner -->
-			<section id="banner">
-				<h2>Abhijith C S</h2>
-				<p>Software Engineer | Web Developer | Graphic Designer | IITian</p>
-			</section>
+<!--Portfolio-->
+  <section id="portfolio" class="container section">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 id="portfolio_header" class="section__title">My Projects_</h2>
+      </div>
+    </div>
+    <div class="row portfolio-menu">
+      <div class="col-md-12">
+        <nav>
+          <ul>
+            <li><a href="" data-portfolio-target-tag="all">all</a></li>
+            <li><a href="" data-portfolio-target-tag="academic">academic</a></li>
+            <li><a href="" data-portfolio-target-tag="hobby">hobby</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <div class="portfolio-cards">
+      <div class="row project-card" data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+          <h3 class="project-card__title">Optimal Grouping of Cores in BOSS MOOL</h3>
+          <p class="project-card__description">
+            The BOSSMOOL - Minimalistic Object Oriented Linux (MOOL) aims at redesigning the existing linux kernel with minimal set of core OO components. To implement an optimal way of classifying the cores in a multi-core system, into different sets based on certain criteria to improve the overall performance. This research project was done under the guidance of <a href="http://dos.iitm.ac.in/djwebsite/" target="_blank" class="customURL">Prof. D Janakiram</a> at the Distributed and Object Systems Lab, IIT Madras.
+          </p>
+          <a href="downloads/optimal-grouping-of-cores-in-boss-mool.pdf" target="_blank" class="project-card__link">View Thesis</a>
+        </div>
+      </div>
+      <div class="row project-card"  data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+          <h3 class="project-card__title">Implementation of Task Scheduling algorithm with Deadline Constraints for MapReduce</h3>
+          <p class="project-card__description">
+            A task scheduling algorithm with deadline constraints in Hadoop platform. It considers the specified deadlines of a job and tries to make the job be finished before the deadline.
+          </p>
+          <a href="downloads/task-scheduling-with-deadline-constraints-for-map-reduce.pdf" target="_blank" class="project-card__link">View Report</a>
+        </div>
+      </div>
+      <div class="row project-card" data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+        <h3 class="project-card__title">Answering new Questions in Community Answering Forums with past Answers</h3>
+        <p class="project-card__description">
+          An engine to predict answers to new questions using the past best answers of questions in Community Answering Forums.
+        </p>
+        <a href="downloads/nlp-for-answering-questions-in-forums.pdf" target="_blank" class="project-card__link">View Report</a>
+      </div>
+      </div>
+      <div class="row project-card" data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+        <h3 class="project-card__title">Animation and Deformations of Softbody Characters using OpenGL 4.0</h3>
+        <p class="project-card__description">
+          The objective is the physical realization of 3D models, carve and deform the object to reach equilibrium. To design a character in its neutral poses as well as a set of deformed target poses with smooth non-jerky animation using OpenGL 4.0
+        </p>
+        <a href="downloads/deformations-of-softbody-characters-using-opengl.pdf" target="_blank" class="project-card__link">View Report</a>
+      </div>
+      </div>
+      <div class="row project-card" data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+        <h3 class="project-card__title">Detection of Video Tampering</h3>
+        <p class="project-card__description">
+          Detection of any evidence of video tampering by locating the forged regions by using the correlation of noise residue.
+        </p>
+        <a href="downloads/detection-of-video-tampering.pdf" target="_blank" class="project-card__link">View Report</a>
+      </div>
+      </div>
+      <div class="row project-card" data-portfolio-tag="academic">
+        <div class="col-md-12 col-lg-12 project-card__info">
+        <h3 class="project-card__title">Context Sensitive Spell Checker and Auto-Corrector</h3>
+        <p class="project-card__description">
+          To design a context sensitive spelling corrector using the context words and collocations.
+        </p>
+        <a href="downloads/npl-context-sensitive-spell-checker.pdf" target="_blank" class="project-card__link">View Report</a>
+      </div>
+      </div>
+    </div>
+  </section>
+<!--Portfolio-->
 
+<!--Contact-->
+  <div class="background" style="background-image: url(assets/images/bg_main.jpg)">
+    <div id="contact" class="container section">
+      <div class="row">
+        <div class="col-md-12">
+          <p id="contacts_header" class="section__title">Get in Touch</p>
+        </div>
+      </div>
+      <div class="row contacts">
+        <div class="col-md-5 col-lg-4">
+          <div class="contacts__list">
+            <dl class="contact-list">
+              <dt>Phone</dt>
+              <dd><a href="tel:9043960876">(+91) 9043-960-876</a></dd>
+              <dt>Email</dt>
+              <dd><a href="mailto:writetoabhijith@gmail.com">writetoabhijith@gmail.com</a></dd>
+            </dl>
+          </div>
+          <div class="contacts__social">
+            <ul>
+              <li><a href="https://github.com/abhijithcs" target="_blank"><i class="fa fa-github"></i> abhijithcs</a></li>
+              <li><a href="https://www.linkedin.com/in/csabhijith/" target="_blank"><i class="fa fa-linkedin-square"></i> csabhijith</a></li>
+              <li><a href="https://www.facebook.com/abijithcs/" target="_blank"><i class="fa fa-facebook-square"></i> abijithcs</a></li>
+              <li><a href="skype:abhijithcs003" target="_blank"><i class="fa fa-skype"></i> abhijithcs003</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-7 col-lg-5">
+          <div class="contacts__form">
+            <p class="contacts__form-title">Or just write me a letter here_</p>
+            <form class="js-form">
+              <div class="form-group">
+                <input class="form-field js-field-name" type="text" placeholder="Your name" required>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
+              <div class="form-group">
+                <input class="form-field js-field-email" type="email"  placeholder="Your e-mail" required>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
+              <div class="form-group">
+                <input class="form-field js-field-mobile" type="text"  placeholder="Mobile number" required>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
+              <div class="form-group">
+                <textarea class="form-field js-field-message" placeholder="Leave your message here" required></textarea>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
+              <button class="site-btn site-btn--form" type="submit" value="Send">Connect with Abhijith</button>
+            </form>
+          </div>
+          <div class="footer">
+            <p>2020 <i class="fa fa-circle centerBullet" style="color: unset;"></i> Abhijith C S</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--Contact-->
 
-		<!-- One -->
-			<section id="one" class="wrapper style1 special">
-				<div class="container">
-					<header class="major" style="text-align: left;">
-						<h2>About Me</h2>
-						<br>
-						<p style="line-height: 150%;">Im Abhijith C S, graduated from Indian Institute of Technology Madras (IIT Madras) in 2015 with B-Tech degree in Computer Science and Engineering. Started my career as Software Engineer with EdgeVerve Systems, Bangalore. I hail from Manjeri, a city in Kerala. What I feel about myself is that I am a responsible person and I always wish to do things differently. Being a sociable person, I have good number of friends. I always wanted to get to know about new interesting individuals. Friendship is one of the most important values in my life. We exchange new ideas, find many interesting things about each other and experience new things. <br><br>I spend my time in coding, graphic design, watching comedy movies and playing badminton. I am really crazy to do things. I always wanted be the odd-man among the crowd! I love and care my friends like anything. My besties are my inspiration for my life. I never like reading books! Taking up the risk of challenging tasks always thrills me. As Steve Jobs once said, "Innovation distinguishes between a leader and a follower", I never wanted to be a follower! I believe that passion is necessary to be able to successfully perform. Because only passion can lend the strength to do justice to any job that we do. And I do things keeping the same motto in my mind.</p>
-					</header>
-					<p style="font-size: 18px; color: #1abc9c;">These are my words about me! Now <a href="rg.html" style="color: #2980b9; font-weight: bold;">check this out</a> to read on what my besties at IIT Madras have to say about me!</p>
-				</div>
+  <script src="assets/js/jquery-2.2.4.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.waypoints.js"></script>
+  <script src="assets/js/mbclicker.min.js"></script>
+  <script src="assets/js/main.js"></script>
 
-
-
-
-			</section>
-
-
-
-
-	</body>
-	
-	
-	
+</body>
 </html>

@@ -1,5 +1,5 @@
 <?php
-require 'mailer/PHPMailerAutoload.php'; 
+require 'mailer/PHPMailerAutoload.php';
 echo "Loading ... ";
 function mailer($name, $to, $subject, $body, $reply)
 {
@@ -23,9 +23,9 @@ $mail->SMTPSecure = 'tls';
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "abhijithcs1993@gmail.com";
+$mail->Username = "EMAIL";
 //Password to use for SMTP authentication
-$mail->Password = "Alkali Delta";
+$mail->Password = "PASSWORD";
 //Set who the message is to be sent from
 $mail->setFrom($reply, $name);
 //Set an alternative reply-to address

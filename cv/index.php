@@ -1,3 +1,3 @@
 <?php
-	echo ' <script>window.location = "http://www.abhijithcs.in/downloads/resume.pdf";</script> ';
+	echo ' <script>window.location = "http://www.abhijithcs.in/downloads/AbhijithCS_Resume.pdf";</script> ';
 ?>
