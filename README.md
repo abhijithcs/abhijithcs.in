@@ -1,2 +1,2 @@
-# myPersonalProfile
-My personal website
+# Personal Webpage of Abhijith C S
+The profile of Abhijith, a passionate Software Engineer with 4.5+ years of industry experience with a demonstrated history of working in the eCommerce and Banking domain. Skilled in NodeJS, Java, PHP, Spring and AngularJS. Strong engineering professional with a B-Tech degree in Computer Science from IIT Madras. A fast learning computer scientist with passion in technology and products.
