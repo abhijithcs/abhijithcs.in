@@ -196,7 +196,7 @@ function submitForm(e, formName) {
 
     $.ajax({
         type: "POST",
-        url: 'http://abhijithcs.in/sendmessage.php',
+        url: 'https://accelerateengine.app/email-engine/sendmessage.php',
         data: formData,
         success: function () {
             alert('Thank you! Abhijith will get back to you soon.');
