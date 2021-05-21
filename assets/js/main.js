@@ -1,5 +1,32 @@
 'use strict';
 
+updateWorkEx();
+
+function updateWorkEx(){
+    const dateOfStartingWork = new Date(1436239800000); // July 7, 2015
+    const dateToday = new Date();
+    const totalMonths = monthsSince(dateOfStartingWork, dateToday);
+    const displayYears = totalMonths % 12 == 0 ? totalMonths / 12 : parseInt(totalMonths / 12);
+    const displayMonths = totalMonths % 12;
+    var displayText = displayMonths == 0 ? displayYears + " years" : "";
+    if(displayMonths <= 3 && displayMonths != 0){
+        displayText = displayYears + "+ years";
+    } else if(displayMonths > 3 && displayMonths <= 10){
+        displayText = displayYears + " years and "+displayMonths+" months";
+    } else if(displayMonths > 10){
+        displayText = "close to " + (displayYears + 1) + " years";
+    }
+    document.getElementById("workExCount").innerHTML = displayText;
+}
+
+function monthsSince(d1, d2) {
+    var months;
+    months = (d2.getFullYear() - d1.getFullYear()) * 12;
+    months -= d1.getMonth();
+    months += d2.getMonth();
+    return months <= 0 ? 0 : months;
+}
+
 function copyToClipboardMobile(element) {
     var $temp = $("<input>");
     $("body").append($temp);
