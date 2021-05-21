@@ -1,5 +1,114 @@
 'use strict';
 
+function copyToClipboardMobile(element) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    var textData = $(element).text();
+    textData = textData.replace(/-/g, '');
+    textData = textData.trim();
+    $temp.val(textData).select();
+    document.execCommand("copy");
+    $temp.remove();
+
+    //UI Changes
+    document.getElementById("copyMobileButton").innerHTML = '<tag class="copyTextSuccess">Copied</tag>';
+    $('#copyMobileButton').fadeOut(2000);
+    setTimeout(function(){
+    document.getElementById("copyMobileButton").innerHTML = '<i class="fa fa-eye"></i>';
+    $('#copyMobileButton').fadeIn(1000); 
+    }, 2100);
+}
+
+function copyToClipboardEmail(element) {
+    var $temp = $("<input>");
+    $("body").append($temp);
+    var textData = $(element).text();
+    textData = textData.replace(/-/g, '');
+    textData = textData.trim();
+    $temp.val(textData).select();
+    document.execCommand("copy");
+    $temp.remove();
+
+    //UI Changes
+    document.getElementById("copyEmailButton").innerHTML = '<tag class="copyTextSuccess">Copied</tag>';
+    $('#copyEmailButton').fadeOut(2000);
+    setTimeout(function(){
+    document.getElementById("copyEmailButton").innerHTML = '<i class="fa fa-eye"></i>';
+    $('#copyEmailButton').fadeIn(1000); 
+    }, 2100);
+}
+
+function viewMobileNumber() {
+    var mobilesContentList = document.getElementsByClassName("myMobileNumber");
+    var replaceX = [4,3,6,8,7];
+    
+    var mobilesDisplayCounter = 0;
+    while(mobilesDisplayCounter < mobilesContentList.length){
+        var mobileNumber = mobilesContentList[mobilesDisplayCounter].innerText;
+        let formattedNumber = "";
+        let xIndex = 0;
+        for(let n = 0; n < mobileNumber.length; n++){
+            if(mobileNumber[n] == 'X'){
+                formattedNumber = formattedNumber + "" + replaceX[xIndex];
+                xIndex++;
+            } else {
+                formattedNumber = formattedNumber + "" + mobileNumber[n];
+            }
+        }
+        mobilesContentList[mobilesDisplayCounter].innerText = formattedNumber;
+
+        copyToClipboardMobile('#profileMobileNumber');
+        
+        mobilesDisplayCounter++;
+    }
+
+    
+}
+
+function viewEmailAddress() {
+    var emailContentList = document.getElementsByClassName("myEmailAddress");
+    var replaceX = ['r','t','o','b','j','t','h','g','m','a','i','l'];
+    
+    var emailDisplayCounter = 0;
+    while(emailDisplayCounter < emailContentList.length){
+        var emailAddress = emailContentList[emailDisplayCounter].innerText;
+        let formattedEmail = "";
+        let xIndex = 0;
+        for(let n = 0; n < emailAddress.length; n++){
+            if(emailAddress[n] == 'x'){
+                formattedEmail = formattedEmail + "" + replaceX[xIndex];
+                xIndex++;
+            } else {
+                formattedEmail = formattedEmail + "" + emailAddress[n];
+            }
+        }
+        emailContentList[emailDisplayCounter].innerText = formattedEmail;
+
+        copyToClipboardEmail('#profileEmailAddress');
+
+        emailDisplayCounter++;
+    }
+}
+
+//Hide Personal Info
+setInterval(function(){
+    const maskedMobileNumber = "90XX-9X0-XX6";
+    var mobilesContentList = document.getElementsByClassName("myMobileNumber");
+    var mobilesDisplayCounter = 0;
+    while(mobilesDisplayCounter < mobilesContentList.length){
+        mobilesContentList[mobilesDisplayCounter].innerText = maskedMobileNumber;
+        mobilesDisplayCounter++;
+    }
+
+    const maskedEmailAddress = "wxixetxaxhixixx@xxxxx.com";
+    var emailContentList = document.getElementsByClassName("myEmailAddress");
+    var emailDisplayCounter = 0;
+    while(emailDisplayCounter < emailContentList.length){
+        emailContentList[emailDisplayCounter].innerText = maskedEmailAddress;
+        emailDisplayCounter++;
+    }
+}, 8000);
+
 //Anchors
 $(function(){
     $('a[href^="#"]').click(function(){

@@ -1,3 +1,22 @@
+.hiddenEyes{
+  cursor: pointer;
+  margin-left: 6px;
+  opacity: 0.8;
+}
+
+.hiddenEyes:hover,
+.hiddenEyes:focus,
+.hiddenEyes:active{
+  opacity: 1;
+}
+
+.copyTextSuccess{
+  text-shadow: #00bcd4 1px 1px 5px;
+  font-size: 12px;
+  position: absolute;
+  margin-left: 10px;
+}
+
 .centerBullet{
   font-size: 40%;
   position: relative;
