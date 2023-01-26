@@ -1,6 +1,7 @@
 'use strict';
 
 updateWorkEx();
+updateCopyRightYear();
 
 function updateWorkEx(){
     const dateOfStartingWork = new Date(1436239800000); // July 7, 2015
@@ -17,6 +18,11 @@ function updateWorkEx(){
         displayText = "close to " + (displayYears + 1) + " years";
     }
     document.getElementById("workExCount").innerHTML = displayText;
+}
+
+function updateCopyRightYear() {
+    const dateToday = new Date();
+    document.getElementById("copyrightYear").innerHTML = dateToday.getFullYear();;
 }
 
 function monthsSince(d1, d2) {
